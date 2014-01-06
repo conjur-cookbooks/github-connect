@@ -1,0 +1,6 @@
+[submodule "dependencies/ssh_known_hosts"]
+	path = dependencies/ssh_known_hosts
+	url = https://github.com/opscode-cookbooks/ssh_known_hosts.git
+[submodule "dependencies/partial_search"]
+	path = dependencies/partial_search
+	url = https://github.com/opscode-cookbooks/partial_search.git

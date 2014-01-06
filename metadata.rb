@@ -5,4 +5,6 @@ license           'MIT'
 description       "Installs git and github's host key, then checks if ssh access is possible."
 version           '0.1.0'
 
+depends "ssh_known_hosts"
+
 supports "ubuntu"
